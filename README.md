@@ -2,4 +2,4 @@
 Simple weather app
 
 # API
-openweathermap.org/api
+https://openweathermap.org/api
